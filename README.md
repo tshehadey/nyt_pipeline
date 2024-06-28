@@ -5,21 +5,33 @@ This repository contains some of the key projects I have worked on, demonstratin
 
 Projects
 1. Predictive Modeling of Disease Symptom and Patient Profile Data
+
 Description: Developed and evaluated machine learning models to predict disease categories using R and caret.
+
 Skills: Machine Learning, Data Analysis, Model Development
+
 Technologies Used: R, caret, Data Visualization
+
 Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data
 
-2. Bids Analysis and Modeling
+3. Bids Analysis and Modeling
+
 Description: Performed exploratory data analysis (EDA) and created Random Forest, Logistic Regression, and Decision Tree models to predict bidder behavior using Python and SMOTE.
+
 Skills: Exploratory Data Analysis, Machine Learning, Model Evaluation
+
 Technologies Used: Python, Pandas, scikit-learn, SMOTE
+
 Link: https://github.com/tshehadey/Projects/blob/main/Bids%20Analysis%20and%20Modeling.ipynb
 
-4. House Sales Analysis
+5. House Sales Analysis
+
 Description: Analyzed house sales data to uncover trends using multiple regression models in Python, improving prediction accuracy by addressing multicollinearity.
+
 Skills: Data Analysis, Regression Modeling, Multicollinearity
+
 Technologies Used: Python, Pandas, scikit-learn
+
 Link: https://github.com/tshehadey/Projects/blob/main/House%20Sales%20Analysis.ipynb
 
 About Me
