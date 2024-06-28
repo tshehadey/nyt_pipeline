@@ -27,7 +27,9 @@ About Me
 I am passionate about leveraging data to solve complex problems and drive data-driven decision-making. My expertise lies in developing and deploying machine learning models, performing data analysis, and visualizing insights using various tools and technologies.
 
 Contact Information
+
 Email: Tysirshehadey@gmail.com
+
 GitHub: https://github.com/tshehadey/Projects
 
 Feel free to explore the projects and reach out if you have any questions or opportunities to collaborate!
