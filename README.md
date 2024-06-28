@@ -1,4 +1,5 @@
 Tysir Shehadey's Data Science Projects
+
 Welcome to my GitHub repository! I am Tysir Shehadey, a graduate student in Applied Data Science with a strong foundation in machine learning, data analysis, and model development. 
 This repository contains some of the key projects I have worked on, demonstrating my skills in Python, R, and various data analysis tools.
 
@@ -22,6 +23,7 @@ Technologies Used: Python, Pandas, scikit-learn
 Link: https://github.com/tshehadey/Projects/blob/main/House%20Sales%20Analysis.ipynb
 
 About Me
+
 I am passionate about leveraging data to solve complex problems and drive data-driven decision-making. My expertise lies in developing and deploying machine learning models, performing data analysis, and visualizing insights using various tools and technologies.
 
 Contact Information
