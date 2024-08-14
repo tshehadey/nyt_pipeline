@@ -4,7 +4,17 @@ Welcome to my GitHub repository! I am Tysir Shehadey, a graduate student in Appl
 This repository contains some of the key projects I have worked on, demonstrating my skills in Python, R, and various data analysis tools.
 
 Projects
-1. Predictive Modeling of Disease Symptom and Patient Profile Data
+1. Blood Cell Image Classification Using Deep Learning Techniques
+
+   Description: Created a Convolutional Neural Network to classify eight blood cell types. The project included image preprocessing, data augmentation, and training with Keras, achieving high accuracy through k-fold cross-validation.
+
+   Skills: Deep Learning, Image Classification, Model Evaluation
+
+   Technologies Used: Python, TensorFlow, Keras, Data Augmentation
+
+   Link: https://github.com/tshehadey/Projects/blob/main/Blood%20Cell%20Image%20Classification%20Using%20Deep%20Learning%20Techniques
+   
+2. Predictive Modeling of Disease Symptom and Patient Profile Data
 
    Description: Developed and evaluated machine learning models to predict disease categories using R and caret.
 
@@ -14,7 +24,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data
 
-2. Bids Analysis and Modeling
+3. Bids Analysis and Modeling
 
    Description: Performed exploratory data analysis (EDA) and created Random Forest, Logistic Regression, and Decision Tree models to predict bidder behavior using Python and SMOTE.
 
@@ -24,7 +34,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Bids%20Analysis%20and%20Modeling.ipynb
 
-3. House Sales Analysis
+4. House Sales Analysis
 
    Description: Analyzed house sales data to uncover trends using multiple regression models in Python, improving prediction accuracy by addressing multicollinearity.
 
@@ -36,7 +46,7 @@ Projects
 
 About Me
 
-I am passionate about leveraging data to solve complex problems and drive data-driven decision-making. My expertise lies in developing and deploying machine learning models, performing data analysis, and visualizing insights using various tools and technologies.
+I am passionate about leveraging data to solve complex problems and drive data-driven decision-making. My expertise lies in developing and deploying machine learning and deep learning models, performing data analysis, and visualizing insights using various tools and technologies.
 
 Contact Information
 
