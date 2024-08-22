@@ -5,6 +5,7 @@ This repository contains some of the key projects I have worked on, demonstratin
 
 Projects
 1. Movie Review Sentiment Analysis
+
    Description: Developed a deep learning model to classify the sentiment of IMDB movie reviews as positive or negative. The project involved text preprocessing, tokenization, and training using Bidirectional LSTMs in Keras.
 
    Skills: Deep Learning, Natural Language Processing (NLP), Sentiment Analysis
@@ -13,7 +14,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Movie%20Review%20Sentiment%20Analysis.ipynb
    
-2. Blood Cell Image Classification Using Deep Learning Techniques
+3. Blood Cell Image Classification Using Deep Learning Techniques
 
    Description: Created a Convolutional Neural Network to classify eight blood cell types. The project included image preprocessing, data augmentation, and training with Keras, achieving high accuracy through k-fold cross-validation.
 
@@ -23,7 +24,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Blood%20Cell%20Image%20Classification%20Using%20Deep%20Learning%20Techniques
    
-3. Predictive Modeling of Disease Symptom and Patient Profile Data
+4. Predictive Modeling of Disease Symptom and Patient Profile Data
 
    Description: Developed and evaluated machine learning models to predict disease categories using R and caret.
 
@@ -33,7 +34,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data
 
-4. Bids Analysis and Modeling
+5. Bids Analysis and Modeling
 
    Description: Performed exploratory data analysis (EDA) and created Random Forest, Logistic Regression, and Decision Tree models to predict bidder behavior using Python and SMOTE.
 
@@ -43,7 +44,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Bids%20Analysis%20and%20Modeling.ipynb
 
-5. House Sales Analysis
+6. House Sales Analysis
 
    Description: Analyzed house sales data to uncover trends using multiple regression models in Python, improving prediction accuracy by addressing multicollinearity.
 
