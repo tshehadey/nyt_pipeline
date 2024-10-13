@@ -32,7 +32,7 @@ Projects
 
    Technologies Used: R, caret, Data Visualization
 
-   Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data
+   Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data.md
 
 5. Bids Analysis and Modeling
 
