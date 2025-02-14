@@ -12,7 +12,7 @@ Projects
 
    Technologies Used: MySQL, Python
 
-   Link: https://github.com/tshehadey/Projects/blob/main/SQL%20NYT%20Pipeline
+   Link: https://github.com/tshehadey/Projects/blob/main/SQL_NYT_Pipeline
 
 2. Predicting News Article Shares
 
@@ -32,7 +32,7 @@ Projects
 
    Technologies Used: Python, TensorFlow, Keras, Text Preprocessing
 
-   Link: https://github.com/tshehadey/Projects/blob/main/Movie%20Review%20Sentiment%20Analysis.ipynb
+   Link: https://github.com/tshehadey/Projects/blob/main/Movie_Review_Sentiment_Analysis.ipynb
    
 4. Blood Cell Image Classification Using Deep Learning Techniques
 
@@ -42,7 +42,7 @@ Projects
 
    Technologies Used: Python, TensorFlow, Keras, Data Augmentation
 
-   Link: https://github.com/tshehadey/Projects/blob/main/Blood%20Cell%20Image%20Classification%20Using%20Deep%20Learning%20Techniques
+   Link: https://github.com/tshehadey/Projects/blob/main/Blood_Cell_Image_Classification_Using_Deep_Learning_Techniques.ipynb
    
 5. Predictive Modeling of Disease Symptom and Patient Profile Data
 
@@ -52,7 +52,7 @@ Projects
 
    Technologies Used: R, caret, Data Visualization
 
-   Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data.md
+   Link: https://github.com/tshehadey/Projects/blob/main/Predictive_Modeling_of_Disease_Symptom_and_Patient_Profile_Data.md
 
 6. Bids Analysis and Modeling
 
@@ -62,7 +62,7 @@ Projects
 
    Technologies Used: Python, Pandas, scikit-learn, SMOTE
 
-   Link: https://github.com/tshehadey/Projects/blob/main/Bids%20Analysis%20and%20Modeling.ipynb
+   Link: https://github.com/tshehadey/Projects/blob/main/Bids_Analysis_Modeling.ipynb
 
 7. House Sales Analysis
 
@@ -72,7 +72,7 @@ Projects
 
    Technologies Used: Python, Pandas, scikit-learn
 
-   Link: https://github.com/tshehadey/Projects/blob/main/House%20Sales%20Analysis.ipynb
+   Link: https://github.com/tshehadey/Projects/blob/main/House_Sales_Analysis.ipynb
 
 About Me
 
