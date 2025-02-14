@@ -13,8 +13,18 @@ Projects
    Technologies Used: MySQL, Python
 
    Link: https://github.com/tshehadey/Projects/blob/main/SQL%20NYT%20Pipeline
+
+2. Predicting News Article Shares
+
+   Description: Developed a machine learning model to predict the number of shares an online news article will receive based on various features. The project involved data preprocessing, feature selection, model training, and hyperparameter tuning to optimize predictive performance.
+
+   Skills: Machine Learning, Feature Engineering, Model Evaluation
+
+   Technologies Used: Python, Scikit-Learn, XGBoost, CatBoost, SHAP
+
+   Link: https://github.com/tshehadey/Projects/blob/main/Predicting_News_Article_Shares.ipynb
    
-2. Movie Review Sentiment Analysis
+3. Movie Review Sentiment Analysis
 
    Description: Developed a deep learning model to classify the sentiment of IMDB movie reviews as positive or negative. The project involved text preprocessing, tokenization, and training using Bidirectional LSTMs in Keras.
 
@@ -24,7 +34,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Movie%20Review%20Sentiment%20Analysis.ipynb
    
-3. Blood Cell Image Classification Using Deep Learning Techniques
+4. Blood Cell Image Classification Using Deep Learning Techniques
 
    Description: Created a Convolutional Neural Network to classify eight blood cell types. The project included image preprocessing, data augmentation, and training with Keras, achieving high accuracy through k-fold cross-validation.
 
@@ -34,7 +44,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Blood%20Cell%20Image%20Classification%20Using%20Deep%20Learning%20Techniques
    
-4. Predictive Modeling of Disease Symptom and Patient Profile Data
+5. Predictive Modeling of Disease Symptom and Patient Profile Data
 
    Description: Developed and evaluated machine learning models to predict disease categories using R and caret.
 
@@ -44,7 +54,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Predictive%20Modeling%20of%20Disease%20Symptom%20and%20Patient%20Profile%20Data.md
 
-5. Bids Analysis and Modeling
+6. Bids Analysis and Modeling
 
    Description: Performed exploratory data analysis (EDA) and created Random Forest, Logistic Regression, and Decision Tree models to predict bidder behavior using Python and SMOTE.
 
@@ -54,7 +64,7 @@ Projects
 
    Link: https://github.com/tshehadey/Projects/blob/main/Bids%20Analysis%20and%20Modeling.ipynb
 
-6. House Sales Analysis
+7. House Sales Analysis
 
    Description: Analyzed house sales data to uncover trends using multiple regression models in Python, improving prediction accuracy by addressing multicollinearity.
 
