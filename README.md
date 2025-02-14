@@ -1,7 +1,7 @@
 Tysir Shehadey's Data Science Projects
 
 Welcome to my GitHub repository! I am Tysir Shehadey, a graduate student in Applied Data Science with a strong foundation in machine learning, data analysis, and model development. 
-This repository contains some of the key projects I have worked on, demonstrating my skills in Python, R, and various data analysis tools.
+This repository contains some of the key projects I have worked on, demonstrating my skills in Python, R, SQL, and various data analysis tools.
 
 Projects
 1. SQL-Based Data Pipeline for New York Times API
