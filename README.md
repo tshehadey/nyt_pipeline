@@ -12,7 +12,7 @@ Projects
 
    Technologies Used: MySQL, Python
 
-   Link: https://github.com/tshehadey/Projects/blob/main/SQL_NYT_Pipeline 
+   Link: https://github.com/tshehadey/Projects/blob/main/SQL_NYT_Pipeline ](https://github.com/tshehadey/Projects/blob/main/SQL%20NYT%20Pipeline
    
 2. Movie Review Sentiment Analysis
 
