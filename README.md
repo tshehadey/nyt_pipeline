@@ -4,7 +4,17 @@ Welcome to my GitHub repository! I am Tysir Shehadey, a graduate student in Appl
 This repository contains some of the key projects I have worked on, demonstrating my skills in Python, R, and various data analysis tools.
 
 Projects
-1. Movie Review Sentiment Analysis
+1. SQL-Based Data Pipeline for New York Times API
+
+   Description: Developed an automated data pipeline that fetches article data from the New York Times API, stores it in a MySQL database, and processes it for analysis. The project focused on efficient data ingestion, transformation, and automation using SQL.
+
+   Skills: SQL, Data Engineering, ETL
+
+   Technologies Used: MySQL, Python
+
+   Link: https://github.com/tshehadey/Projects/blob/main/SQL_NYT_Pipeline 
+   
+2. Movie Review Sentiment Analysis
 
    Description: Developed a deep learning model to classify the sentiment of IMDB movie reviews as positive or negative. The project involved text preprocessing, tokenization, and training using Bidirectional LSTMs in Keras.
 
