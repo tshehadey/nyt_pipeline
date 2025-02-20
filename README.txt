@@ -1,6 +1,7 @@
 NYT Data Pipeline
 
 Overview
+
 This project is an automated data pipeline that fetches top news articles from the New York Times API, 
 processes the data, and stores it in a MySQL database. The pipeline runs daily at 5 PM using Windows 
 Task Scheduler and ensures data integrity through deduplication and error handling.
@@ -29,6 +30,7 @@ git clone https://github.com/tshehadey/Projects.git
 cd Projects/SQL_NYT_Pipeline
 
 Configure Environment Variables
+
 Set up the following environment variables:
 MYSQL_PASSWORD=your_mysql_password
 NYT_API_KEY=your_nyt_api_key
@@ -36,10 +38,12 @@ SLACK_WEBHOOK_URL=your_slack_webhook_url
 For Windows, use set instead of export.
 
 Create MySQL Database & Tables
+
 Run the SQL script to set up the database:
 mysql -u root -p < nyt_pipeline.sql
 
 Schedule the Pipeline to Run Daily
+
 Use Windows Task Scheduler to run the pipeline every day at 5 PM.
 Create a new task and set the following command:
 python path/to/nyt_pipeline.py
