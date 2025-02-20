@@ -13,8 +13,8 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
     filemode="a",  # Append mode (keeps previous logs)
-    force=True  # Ensures reloading of logging handlers)
-
+    force=True  # Ensures reloading of logging handlers
+)
 
 # Add logging to output
 console = logging.StreamHandler()
