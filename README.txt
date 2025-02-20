@@ -51,6 +51,15 @@ python path/to/nyt_pipeline.py
 Run the Pipeline Manually (If Needed)
 python nyt_pipeline.py
 
+Monitoring and Debugging with Log Files
+
+The pipeline maintains a log file called nyt_pipeline.log to track execution details, errors, and warnings. This helps with debugging and monitoring pipeline performance.
+
+To view the log, simply navigate to the folder where you pipeline is store and open the .log file. 
+Check the latest entries at the bottom for timestamps and status updates.
+INFO: Indicates normal pipeline execution steps, such as "Fetched 20 new articles."
+ERROR: Logs critical failures that may require manual intervention, such as "Database connection failed" or "Duplicate entry detected."
+
 Troubleshooting
 
 Duplicate Entry Errors in MySQL:
