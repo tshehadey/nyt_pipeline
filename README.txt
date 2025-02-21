@@ -26,8 +26,8 @@ README.md - Project documentation
 Setup & Installation
 
 Clone the Repository
-git clone https://github.com/tshehadey/Projects.git
-cd Projects/SQL_NYT_Pipeline
+git clone https://github.com/tshehadey/nyt_pipeline.git
+cd nyt_pipeline
 
 Configure Environment Variables
 
