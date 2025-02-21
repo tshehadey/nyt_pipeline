@@ -35,7 +35,6 @@ Set up the following environment variables:
 MYSQL_PASSWORD=your_mysql_password
 NYT_API_KEY=your_nyt_api_key
 SLACK_WEBHOOK_URL=your_slack_webhook_url
-For Windows, use set instead of export.
 
 Create MySQL Database & Tables
 
