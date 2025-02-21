@@ -21,7 +21,7 @@ nyt_pipeline.py - Main Python script for the pipeline
 nyt_pipeline.sql - SQL schema and queries
 nyt_pipeline.log - Log file (auto-generated)
 507 Final Project.ipynb - Jupyter notebook for testing/debugging
-README.md - Project documentation
+README.txt - Project documentation
 
 Setup & Installation
 
