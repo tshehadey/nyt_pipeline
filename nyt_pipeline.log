@@ -334,3 +334,10 @@
 2025-02-20 17:00:02,270 - INFO - Data inserted into nyt_staging successfully.
 2025-02-20 17:00:02,296 - INFO - Data moved to nyt_articles successfully.
 2025-02-20 17:00:02,297 - INFO - Pipeline execution completed successfully.
+2025-02-21 17:00:02,569 - INFO - Pipeline execution started.
+2025-02-21 17:00:02,579 - INFO - Connected to MySQL successfully.
+2025-02-21 17:00:03,127 - INFO - Fetched 38 articles successfully.
+2025-02-21 17:00:03,127 - INFO - Extracted 38 articles.
+2025-02-21 17:00:03,159 - INFO - Data inserted into nyt_staging successfully.
+2025-02-21 17:00:03,186 - INFO - Data moved to nyt_articles successfully.
+2025-02-21 17:00:03,187 - INFO - Pipeline execution completed successfully.
