@@ -42,7 +42,8 @@ ORDER BY COUNT(*) DESC;
 SELECT * FROM nyt_articles ORDER BY published_date DESC LIMIT 10;
 
 SELECT * FROM nyt_articles ORDER BY last_updated DESC LIMIT 10;
-  
+
+
 
 
 
