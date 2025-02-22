@@ -3,7 +3,7 @@ NYT Data Pipeline
 Overview
 
 This project is an automated data pipeline that fetches top news articles from the New York Times API, 
-processes the data, and stores it in a MySQL database. The pipeline runs daily at 5 PM using Windows 
+processes the data, and stores it in a MySQL database. The pipeline runs daily at 5PM using Windows 
 Task Scheduler and ensures data integrity through deduplication and error handling.
 
 Features
