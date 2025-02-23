@@ -60,5 +60,3 @@ SELECT * FROM nyt_articles ORDER BY last_updated DESC LIMIT 10;
 
 
 
-
-

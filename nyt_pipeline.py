@@ -61,9 +61,9 @@ try:
     # Extract Relevant Data
     articles = []
     for article in data['results']:
-        article_id = article.get('uri', 'N/A')
+        article_id = article.get('uri', 'N/A').split('/')[-1]
         title = article.get('title', 'No Title')
-        author = article.get('byline', '').replace("By ", "")
+        author = article.get('byline', '').replace("By ", "").strip()
         published_date = article.get('published_date', None)
         url = article.get('url', 'No URL')
         section = article.get('section', 'No Section')
