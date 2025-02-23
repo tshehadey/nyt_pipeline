@@ -30,11 +30,14 @@ git clone https://github.com/tshehadey/nyt_pipeline.git
 cd nyt_pipeline
 
 Configure Environment Variables
+In windows command prompt: setx MYSQL_PASSWORD "mysecurepassword"
 
 Set up the following environment variables:
 MYSQL_PASSWORD=your_mysql_password
 NYT_API_KEY=your_nyt_api_key
 SLACK_WEBHOOK_URL=your_slack_webhook_url
+
+To verify they are stored: echo %MYSQL_PASSWORD%
 
 Create MySQL Database & Tables
 
@@ -49,6 +52,13 @@ python path/to/nyt_pipeline.py
 
 Run the Pipeline Manually (If Needed)
 python nyt_pipeline.py
+
+Setting Up Slack Notifications
+
+To receive Slack notifications from the pipeline, go to https://api.slack.com/messaging/webhooks.
+Create a new Slack app and enable incoming webhooks. 
+Generate a webhook URL and copy it.
+Set the webhook URL as an environment variable as mentioned before. 
 
 Monitoring and Debugging with Log Files
 
