@@ -390,3 +390,257 @@
 2025-02-23 19:33:52,302 - INFO - Data inserted into nyt_staging successfully.
 2025-02-23 19:33:52,306 - INFO - Data moved to nyt_articles successfully.
 2025-02-23 19:33:52,306 - INFO - Pipeline execution completed successfully.
+2025-02-24 17:00:01,471 - INFO - Pipeline execution started.
+2025-02-24 17:00:01,481 - INFO - Connected to MySQL successfully.
+2025-02-24 17:00:02,498 - INFO - Fetched 36 articles successfully.
+2025-02-24 17:00:02,498 - INFO - Extracted 36 articles.
+2025-02-24 17:00:02,526 - INFO - Data inserted into nyt_staging successfully.
+2025-02-24 17:00:02,547 - INFO - Data moved to nyt_articles successfully.
+2025-02-24 17:00:02,547 - INFO - Pipeline execution completed successfully.
+2025-02-26 11:33:46,312 - INFO - Pipeline execution started.
+2025-02-26 11:33:46,341 - INFO - Connected to MySQL successfully.
+2025-02-26 17:00:02,313 - INFO - Pipeline execution started.
+2025-02-26 17:00:02,320 - INFO - Connected to MySQL successfully.
+2025-02-26 17:00:02,865 - INFO - Fetched 36 articles successfully.
+2025-02-26 17:00:02,865 - INFO - Extracted 36 articles.
+2025-02-26 17:00:02,883 - INFO - Data inserted into nyt_staging successfully.
+2025-02-26 17:00:02,899 - INFO - Data moved to nyt_articles successfully.
+2025-02-26 17:00:02,899 - INFO - Pipeline execution completed successfully.
+2025-02-27 17:00:02,211 - INFO - Pipeline execution started.
+2025-02-27 17:00:02,222 - INFO - Connected to MySQL successfully.
+2025-02-27 17:00:03,532 - INFO - Fetched 37 articles successfully.
+2025-02-27 17:00:03,532 - INFO - Extracted 37 articles.
+2025-02-27 17:00:03,543 - INFO - Data inserted into nyt_staging successfully.
+2025-02-27 17:00:03,548 - INFO - Data moved to nyt_articles successfully.
+2025-02-27 17:00:03,548 - INFO - Pipeline execution completed successfully.
+2025-02-28 17:00:02,384 - INFO - Pipeline execution started.
+2025-02-28 17:00:02,392 - INFO - Connected to MySQL successfully.
+2025-02-28 17:00:03,060 - INFO - Fetched 37 articles successfully.
+2025-02-28 17:00:03,061 - INFO - Extracted 37 articles.
+2025-02-28 17:00:03,072 - INFO - Data inserted into nyt_staging successfully.
+2025-02-28 17:00:03,082 - INFO - Data moved to nyt_articles successfully.
+2025-02-28 17:00:03,082 - INFO - Pipeline execution completed successfully.
+2025-03-01 18:08:56,140 - INFO - Pipeline execution started.
+2025-03-01 18:08:56,148 - INFO - Connected to MySQL successfully.
+2025-03-01 18:08:56,690 - INFO - Fetched 37 articles successfully.
+2025-03-01 18:08:56,690 - INFO - Extracted 37 articles.
+2025-03-01 18:08:56,710 - INFO - Data inserted into nyt_staging successfully.
+2025-03-01 18:08:56,728 - INFO - Data moved to nyt_articles successfully.
+2025-03-01 18:08:56,728 - INFO - Pipeline execution completed successfully.
+2025-03-01 18:14:52,903 - INFO - Pipeline execution started.
+2025-03-01 18:14:52,909 - INFO - Connected to MySQL successfully.
+2025-03-01 18:14:53,384 - INFO - Fetched 37 articles successfully.
+2025-03-01 18:14:53,384 - INFO - Extracted 37 articles.
+2025-03-01 18:14:53,389 - INFO - Data inserted into nyt_staging successfully.
+2025-03-01 18:14:53,391 - INFO - Data moved to nyt_articles successfully.
+2025-03-01 18:14:53,391 - INFO - Pipeline execution completed successfully.
+2025-03-02 18:52:30,986 - INFO - Pipeline execution started.
+2025-03-02 18:52:30,994 - INFO - Connected to MySQL successfully.
+2025-03-02 18:52:31,880 - INFO - Fetched 37 articles successfully.
+2025-03-02 18:52:31,880 - INFO - Extracted 37 articles.
+2025-03-02 18:52:31,904 - INFO - Data inserted into nyt_staging successfully.
+2025-03-02 18:52:31,923 - INFO - Data moved to nyt_articles successfully.
+2025-03-02 18:52:31,923 - INFO - Pipeline execution completed successfully.
+2025-03-03 17:00:02,162 - INFO - Pipeline execution started.
+2025-03-03 17:00:02,176 - INFO - Connected to MySQL successfully.
+2025-03-03 17:00:02,784 - INFO - Fetched 37 articles successfully.
+2025-03-03 17:00:02,785 - INFO - Extracted 37 articles.
+2025-03-03 17:00:02,813 - INFO - Data inserted into nyt_staging successfully.
+2025-03-03 17:00:02,836 - INFO - Data moved to nyt_articles successfully.
+2025-03-03 17:00:02,836 - INFO - Pipeline execution completed successfully.
+2025-03-04 17:00:01,992 - INFO - Pipeline execution started.
+2025-03-04 17:00:02,000 - INFO - Connected to MySQL successfully.
+2025-03-04 17:00:03,912 - INFO - Fetched 34 articles successfully.
+2025-03-04 17:00:03,913 - INFO - Extracted 34 articles.
+2025-03-04 17:00:03,929 - INFO - Data inserted into nyt_staging successfully.
+2025-03-04 17:00:03,945 - INFO - Data moved to nyt_articles successfully.
+2025-03-04 17:00:03,945 - INFO - Pipeline execution completed successfully.
+2025-03-05 17:00:01,939 - INFO - Pipeline execution started.
+2025-03-05 17:00:01,947 - INFO - Connected to MySQL successfully.
+2025-03-05 17:00:02,886 - INFO - Fetched 37 articles successfully.
+2025-03-05 17:00:02,886 - INFO - Extracted 37 articles.
+2025-03-05 17:00:02,900 - INFO - Data inserted into nyt_staging successfully.
+2025-03-05 17:00:02,910 - INFO - Data moved to nyt_articles successfully.
+2025-03-05 17:00:02,910 - INFO - Pipeline execution completed successfully.
+2025-03-06 17:00:01,772 - INFO - Pipeline execution started.
+2025-03-06 17:00:01,793 - INFO - Connected to MySQL successfully.
+2025-03-06 17:00:02,684 - INFO - Fetched 36 articles successfully.
+2025-03-06 17:00:02,684 - INFO - Extracted 36 articles.
+2025-03-06 17:00:02,724 - INFO - Data inserted into nyt_staging successfully.
+2025-03-06 17:00:02,749 - INFO - Data moved to nyt_articles successfully.
+2025-03-06 17:00:02,750 - INFO - Pipeline execution completed successfully.
+2025-03-07 17:00:01,856 - INFO - Pipeline execution started.
+2025-03-07 17:00:01,865 - INFO - Connected to MySQL successfully.
+2025-03-07 17:00:02,946 - INFO - Fetched 34 articles successfully.
+2025-03-07 17:00:02,947 - INFO - Extracted 34 articles.
+2025-03-07 17:00:02,959 - INFO - Data inserted into nyt_staging successfully.
+2025-03-07 17:00:02,971 - INFO - Data moved to nyt_articles successfully.
+2025-03-07 17:00:02,971 - INFO - Pipeline execution completed successfully.
+2025-03-08 17:00:02,296 - INFO - Pipeline execution started.
+2025-03-08 17:00:02,303 - INFO - Connected to MySQL successfully.
+2025-03-08 17:00:02,846 - INFO - Fetched 40 articles successfully.
+2025-03-08 17:00:02,846 - INFO - Extracted 40 articles.
+2025-03-08 17:00:02,867 - INFO - Data inserted into nyt_staging successfully.
+2025-03-08 17:00:02,888 - INFO - Data moved to nyt_articles successfully.
+2025-03-08 17:00:02,888 - INFO - Pipeline execution completed successfully.
+2025-03-09 17:00:02,242 - INFO - Pipeline execution started.
+2025-03-09 17:00:02,250 - INFO - Connected to MySQL successfully.
+2025-03-09 17:00:02,718 - INFO - Fetched 38 articles successfully.
+2025-03-09 17:00:02,719 - INFO - Extracted 38 articles.
+2025-03-09 17:00:02,746 - INFO - Data inserted into nyt_staging successfully.
+2025-03-09 17:00:02,757 - INFO - Data moved to nyt_articles successfully.
+2025-03-09 17:00:02,757 - INFO - Pipeline execution completed successfully.
+2025-03-10 17:00:02,621 - INFO - Pipeline execution started.
+2025-03-10 17:00:02,631 - INFO - Connected to MySQL successfully.
+2025-03-10 17:00:03,164 - INFO - Fetched 37 articles successfully.
+2025-03-10 17:00:03,164 - INFO - Extracted 37 articles.
+2025-03-10 17:00:03,180 - INFO - Data inserted into nyt_staging successfully.
+2025-03-10 17:00:03,204 - INFO - Data moved to nyt_articles successfully.
+2025-03-10 17:00:03,205 - INFO - Pipeline execution completed successfully.
+2025-03-11 17:00:01,717 - INFO - Pipeline execution started.
+2025-03-11 17:00:01,729 - INFO - Connected to MySQL successfully.
+2025-03-11 17:00:02,258 - INFO - Fetched 36 articles successfully.
+2025-03-11 17:00:02,258 - INFO - Extracted 36 articles.
+2025-03-11 17:00:02,299 - INFO - Data inserted into nyt_staging successfully.
+2025-03-11 17:00:02,323 - INFO - Data moved to nyt_articles successfully.
+2025-03-11 17:00:02,323 - INFO - Pipeline execution completed successfully.
+2025-03-12 17:00:02,149 - INFO - Pipeline execution started.
+2025-03-12 17:00:02,159 - INFO - Connected to MySQL successfully.
+2025-03-12 17:00:02,677 - INFO - Fetched 37 articles successfully.
+2025-03-12 17:00:02,678 - INFO - Extracted 37 articles.
+2025-03-12 17:00:02,715 - INFO - Data inserted into nyt_staging successfully.
+2025-03-12 17:00:02,741 - INFO - Data moved to nyt_articles successfully.
+2025-03-12 17:00:02,741 - INFO - Pipeline execution completed successfully.
+2025-03-13 17:00:02,106 - INFO - Pipeline execution started.
+2025-03-13 17:00:02,115 - INFO - Connected to MySQL successfully.
+2025-03-13 17:00:02,615 - INFO - Fetched 38 articles successfully.
+2025-03-13 17:00:02,615 - INFO - Extracted 38 articles.
+2025-03-13 17:00:02,660 - INFO - Data inserted into nyt_staging successfully.
+2025-03-13 17:00:02,673 - INFO - Data moved to nyt_articles successfully.
+2025-03-13 17:00:02,673 - INFO - Pipeline execution completed successfully.
+2025-03-14 18:25:54,464 - INFO - Pipeline execution started.
+2025-03-14 18:25:54,471 - INFO - Connected to MySQL successfully.
+2025-03-14 18:25:55,401 - INFO - Fetched 36 articles successfully.
+2025-03-14 18:25:55,402 - INFO - Extracted 36 articles.
+2025-03-14 18:25:55,423 - INFO - Data inserted into nyt_staging successfully.
+2025-03-14 18:25:55,447 - INFO - Data moved to nyt_articles successfully.
+2025-03-14 18:25:55,447 - INFO - Pipeline execution completed successfully.
+2025-03-15 17:00:02,155 - INFO - Pipeline execution started.
+2025-03-15 17:00:02,163 - INFO - Connected to MySQL successfully.
+2025-03-15 17:00:02,742 - INFO - Fetched 35 articles successfully.
+2025-03-15 17:00:02,742 - INFO - Extracted 35 articles.
+2025-03-15 17:00:02,754 - INFO - Data inserted into nyt_staging successfully.
+2025-03-15 17:00:02,765 - INFO - Data moved to nyt_articles successfully.
+2025-03-15 17:00:02,765 - INFO - Pipeline execution completed successfully.
+2025-03-16 17:49:36,229 - INFO - Pipeline execution started.
+2025-03-16 17:49:36,236 - INFO - Connected to MySQL successfully.
+2025-03-16 17:49:37,038 - INFO - Fetched 36 articles successfully.
+2025-03-16 17:49:37,038 - INFO - Extracted 36 articles.
+2025-03-16 17:49:37,058 - INFO - Data inserted into nyt_staging successfully.
+2025-03-16 17:49:37,076 - INFO - Data moved to nyt_articles successfully.
+2025-03-16 17:49:37,076 - INFO - Pipeline execution completed successfully.
+2025-03-17 17:00:02,413 - INFO - Pipeline execution started.
+2025-03-17 17:00:02,422 - INFO - Connected to MySQL successfully.
+2025-03-17 17:00:02,920 - INFO - Fetched 36 articles successfully.
+2025-03-17 17:00:02,920 - INFO - Extracted 36 articles.
+2025-03-17 17:00:02,947 - INFO - Data inserted into nyt_staging successfully.
+2025-03-17 17:00:02,971 - INFO - Data moved to nyt_articles successfully.
+2025-03-17 17:00:02,972 - INFO - Pipeline execution completed successfully.
+2025-03-18 17:00:02,151 - INFO - Pipeline execution started.
+2025-03-18 17:00:02,159 - INFO - Connected to MySQL successfully.
+2025-03-18 17:00:02,644 - INFO - Fetched 33 articles successfully.
+2025-03-18 17:00:02,644 - INFO - Extracted 33 articles.
+2025-03-18 17:00:02,672 - INFO - Data inserted into nyt_staging successfully.
+2025-03-18 17:00:02,697 - INFO - Data moved to nyt_articles successfully.
+2025-03-18 17:00:02,697 - INFO - Pipeline execution completed successfully.
+2025-03-19 17:00:02,440 - INFO - Pipeline execution started.
+2025-03-19 17:00:02,451 - INFO - Connected to MySQL successfully.
+2025-03-19 17:00:02,900 - INFO - Fetched 35 articles successfully.
+2025-03-19 17:00:02,900 - INFO - Extracted 35 articles.
+2025-03-19 17:00:02,917 - INFO - Data inserted into nyt_staging successfully.
+2025-03-19 17:00:02,932 - INFO - Data moved to nyt_articles successfully.
+2025-03-19 17:00:02,932 - INFO - Pipeline execution completed successfully.
+2025-03-20 17:00:02,313 - INFO - Pipeline execution started.
+2025-03-20 17:00:02,322 - INFO - Connected to MySQL successfully.
+2025-03-20 17:00:02,782 - INFO - Fetched 33 articles successfully.
+2025-03-20 17:00:02,782 - INFO - Extracted 33 articles.
+2025-03-20 17:00:02,821 - INFO - Data inserted into nyt_staging successfully.
+2025-03-20 17:00:02,843 - INFO - Data moved to nyt_articles successfully.
+2025-03-20 17:00:02,844 - INFO - Pipeline execution completed successfully.
+2025-03-21 18:03:27,237 - INFO - Pipeline execution started.
+2025-03-21 18:03:27,244 - INFO - Connected to MySQL successfully.
+2025-03-21 18:03:28,070 - INFO - Fetched 32 articles successfully.
+2025-03-21 18:03:28,070 - INFO - Extracted 32 articles.
+2025-03-21 18:03:28,090 - INFO - Data inserted into nyt_staging successfully.
+2025-03-21 18:03:28,111 - INFO - Data moved to nyt_articles successfully.
+2025-03-21 18:03:28,112 - INFO - Pipeline execution completed successfully.
+2025-03-22 17:00:01,578 - INFO - Pipeline execution started.
+2025-03-22 17:00:01,587 - INFO - Connected to MySQL successfully.
+2025-03-22 17:00:02,097 - INFO - Fetched 38 articles successfully.
+2025-03-22 17:00:02,097 - INFO - Extracted 38 articles.
+2025-03-22 17:00:02,121 - INFO - Data inserted into nyt_staging successfully.
+2025-03-22 17:00:02,143 - INFO - Data moved to nyt_articles successfully.
+2025-03-22 17:00:02,143 - INFO - Pipeline execution completed successfully.
+2025-03-23 17:00:02,541 - INFO - Pipeline execution started.
+2025-03-23 17:00:02,548 - INFO - Connected to MySQL successfully.
+2025-03-23 17:00:03,023 - INFO - Fetched 38 articles successfully.
+2025-03-23 17:00:03,023 - INFO - Extracted 38 articles.
+2025-03-23 17:00:03,048 - INFO - Data inserted into nyt_staging successfully.
+2025-03-23 17:00:03,071 - INFO - Data moved to nyt_articles successfully.
+2025-03-23 17:00:03,071 - INFO - Pipeline execution completed successfully.
+2025-03-24 17:00:02,482 - INFO - Pipeline execution started.
+2025-03-24 17:00:02,493 - INFO - Connected to MySQL successfully.
+2025-03-24 17:00:02,973 - INFO - Fetched 36 articles successfully.
+2025-03-24 17:00:02,973 - INFO - Extracted 36 articles.
+2025-03-24 17:00:02,989 - INFO - Data inserted into nyt_staging successfully.
+2025-03-24 17:00:03,005 - INFO - Data moved to nyt_articles successfully.
+2025-03-24 17:00:03,006 - INFO - Pipeline execution completed successfully.
+2025-03-25 17:00:02,514 - INFO - Pipeline execution started.
+2025-03-25 17:00:02,532 - INFO - Connected to MySQL successfully.
+2025-03-25 17:00:02,971 - INFO - Fetched 38 articles successfully.
+2025-03-25 17:00:02,972 - INFO - Extracted 38 articles.
+2025-03-25 17:00:03,007 - INFO - Data inserted into nyt_staging successfully.
+2025-03-25 17:00:03,033 - INFO - Data moved to nyt_articles successfully.
+2025-03-25 17:00:03,033 - INFO - Pipeline execution completed successfully.
+2025-03-26 17:00:02,446 - INFO - Pipeline execution started.
+2025-03-26 17:00:02,454 - INFO - Connected to MySQL successfully.
+2025-03-26 17:00:02,916 - INFO - Fetched 35 articles successfully.
+2025-03-26 17:00:02,916 - INFO - Extracted 35 articles.
+2025-03-26 17:00:02,931 - INFO - Data inserted into nyt_staging successfully.
+2025-03-26 17:00:02,947 - INFO - Data moved to nyt_articles successfully.
+2025-03-26 17:00:02,947 - INFO - Pipeline execution completed successfully.
+2025-03-27 17:00:02,448 - INFO - Pipeline execution started.
+2025-03-27 17:00:02,454 - INFO - Connected to MySQL successfully.
+2025-03-27 17:00:02,940 - INFO - Fetched 36 articles successfully.
+2025-03-27 17:00:02,940 - INFO - Extracted 36 articles.
+2025-03-27 17:00:02,958 - INFO - Data inserted into nyt_staging successfully.
+2025-03-27 17:00:02,970 - INFO - Data moved to nyt_articles successfully.
+2025-03-27 17:00:02,970 - INFO - Pipeline execution completed successfully.
+2025-03-28 17:00:02,401 - INFO - Pipeline execution started.
+2025-03-28 17:00:02,408 - INFO - Connected to MySQL successfully.
+2025-03-28 17:00:02,903 - INFO - Fetched 35 articles successfully.
+2025-03-28 17:00:02,903 - INFO - Extracted 35 articles.
+2025-03-28 17:00:02,925 - INFO - Data inserted into nyt_staging successfully.
+2025-03-28 17:00:02,948 - INFO - Data moved to nyt_articles successfully.
+2025-03-28 17:00:02,949 - INFO - Pipeline execution completed successfully.
+2025-03-29 17:00:02,515 - INFO - Pipeline execution started.
+2025-03-29 17:00:02,522 - INFO - Connected to MySQL successfully.
+2025-03-29 17:00:02,996 - INFO - Fetched 36 articles successfully.
+2025-03-29 17:00:02,996 - INFO - Extracted 36 articles.
+2025-03-29 17:00:03,009 - INFO - Data inserted into nyt_staging successfully.
+2025-03-29 17:00:03,023 - INFO - Data moved to nyt_articles successfully.
+2025-03-29 17:00:03,024 - INFO - Pipeline execution completed successfully.
+2025-03-30 17:00:02,350 - INFO - Pipeline execution started.
+2025-03-30 17:00:02,358 - INFO - Connected to MySQL successfully.
+2025-03-30 17:00:02,847 - INFO - Fetched 37 articles successfully.
+2025-03-30 17:00:02,847 - INFO - Extracted 37 articles.
+2025-03-30 17:00:02,870 - INFO - Data inserted into nyt_staging successfully.
+2025-03-30 17:00:02,895 - INFO - Data moved to nyt_articles successfully.
+2025-03-30 17:00:02,895 - INFO - Pipeline execution completed successfully.
+2025-03-31 17:00:02,285 - INFO - Pipeline execution started.
+2025-03-31 17:00:02,293 - INFO - Connected to MySQL successfully.
+2025-03-31 17:00:02,742 - INFO - Fetched 34 articles successfully.
+2025-03-31 17:00:02,742 - INFO - Extracted 34 articles.
+2025-03-31 17:00:02,763 - INFO - Data inserted into nyt_staging successfully.
+2025-03-31 17:00:02,783 - INFO - Data moved to nyt_articles successfully.
+2025-03-31 17:00:02,783 - INFO - Pipeline execution completed successfully.
